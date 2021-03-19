@@ -12,7 +12,7 @@ django-dynamic-model==0.1.0
 django-eav2==0.13.0
 django-filter==2.2.0
 django-heroku==0.3.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 dnspython==1.16.0
 get==2019.4.13
 gunicorn==20.0.4
